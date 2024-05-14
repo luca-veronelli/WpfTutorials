@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTutorial1", "WpfTutorial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTutorial2", "WpfTutorial2\WpfTutorial2.csproj", "{174C3094-86F7-48CC-B30C-77AE04110815}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridControl", "GridControl\GridControl.csproj", "{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{174C3094-86F7-48CC-B30C-77AE04110815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{174C3094-86F7-48CC-B30C-77AE04110815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{174C3094-86F7-48CC-B30C-77AE04110815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
