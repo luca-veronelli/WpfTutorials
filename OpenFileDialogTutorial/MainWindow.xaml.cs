@@ -9,6 +9,7 @@ namespace OpenFileDialogTutorial
         {
             InitializeComponent();
         }
+
         private void btnFire_Click(object sender, RoutedEventArgs e)
         {
             OpenFileDialog fileDialog = new OpenFileDialog();
