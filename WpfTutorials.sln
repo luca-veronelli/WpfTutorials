@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTutorial1", "WpfTutorial1\WpfTutorial1.csproj", "{2C3B9DEF-BC2D-4AA4-8AE3-23F977168FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfTutorial1", "WpfTutorial1\WpfTutorial1.csproj", "{2C3B9DEF-BC2D-4AA4-8AE3-23F977168FEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTutorial2", "WpfTutorial2\WpfTutorial2.csproj", "{174C3094-86F7-48CC-B30C-77AE04110815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfTutorial2", "WpfTutorial2\WpfTutorial2.csproj", "{174C3094-86F7-48CC-B30C-77AE04110815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridControl", "GridControl\GridControl.csproj", "{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridControl", "GridControl\GridControl.csproj", "{76B9C458-DA9B-49C6-91DF-9A780D8DA11B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomUserControls", "CustomUserControls\CustomUserControls.csproj", "{74D37185-09D4-46D8-A2B7-907563712E62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomUserControls", "CustomUserControls\CustomUserControls.csproj", "{74D37185-09D4-46D8-A2B7-907563712E62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTextBoxControl", "CustomTextBoxControl\CustomTextBoxControl.csproj", "{26E0D2DB-A307-4C63-8C87-325388AE792C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomTextBoxControl", "CustomTextBoxControl\CustomTextBoxControl.csproj", "{26E0D2DB-A307-4C63-8C87-325388AE792C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyChangedTutorial", "INotifyPropertyChangedTutorial\INotifyPropertyChangedTutorial.csproj", "{750E7D14-B058-4B63-9CA6-30C294EBD115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{26E0D2DB-A307-4C63-8C87-325388AE792C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26E0D2DB-A307-4C63-8C87-325388AE792C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26E0D2DB-A307-4C63-8C87-325388AE792C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
