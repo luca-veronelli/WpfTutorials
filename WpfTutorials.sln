@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomUserControls", "Custo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomTextBoxControl", "CustomTextBoxControl\CustomTextBoxControl.csproj", "{26E0D2DB-A307-4C63-8C87-325388AE792C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyChangedTutorial", "INotifyPropertyChangedTutorial\INotifyPropertyChangedTutorial.csproj", "{750E7D14-B058-4B63-9CA6-30C294EBD115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INotifyPropertyChangedTutorial", "INotifyPropertyChangedTutorial\INotifyPropertyChangedTutorial.csproj", "{750E7D14-B058-4B63-9CA6-30C294EBD115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxTutorial", "MessageBoxTutorial\MessageBoxTutorial.csproj", "{D2180838-9883-4D3F-8D21-D76C8DB1AE93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBoxTutorial", "MessageBoxTutorial\MessageBoxTutorial.csproj", "{D2180838-9883-4D3F-8D21-D76C8DB1AE93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFileDialogTutorial", "OpenFileDialogTutorial\OpenFileDialogTutorial.csproj", "{894396C4-BA80-455D-B213-516465F12590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenFileDialogTutorial", "OpenFileDialogTutorial\OpenFileDialogTutorial.csproj", "{894396C4-BA80-455D-B213-516465F12590}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfTutorial", "..\WpfTutorial\WpfTutorial.csproj", "{13CD1B19-E01D-4F38-81D5-2217F2893D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{894396C4-BA80-455D-B213-516465F12590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{894396C4-BA80-455D-B213-516465F12590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{894396C4-BA80-455D-B213-516465F12590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CD1B19-E01D-4F38-81D5-2217F2893D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CD1B19-E01D-4F38-81D5-2217F2893D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CD1B19-E01D-4F38-81D5-2217F2893D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CD1B19-E01D-4F38-81D5-2217F2893D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
