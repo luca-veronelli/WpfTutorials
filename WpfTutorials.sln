@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomTextBoxControl", "Cus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyChangedTutorial", "INotifyPropertyChangedTutorial\INotifyPropertyChangedTutorial.csproj", "{750E7D14-B058-4B63-9CA6-30C294EBD115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxTutorial", "MessageBoxTutorial\MessageBoxTutorial.csproj", "{D2180838-9883-4D3F-8D21-D76C8DB1AE93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750E7D14-B058-4B63-9CA6-30C294EBD115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2180838-9883-4D3F-8D21-D76C8DB1AE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2180838-9883-4D3F-8D21-D76C8DB1AE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2180838-9883-4D3F-8D21-D76C8DB1AE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2180838-9883-4D3F-8D21-D76C8DB1AE93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
